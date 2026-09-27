@@ -2,7 +2,7 @@
 
 ![Minecraft](https://img.shields.io/badge/Minecraft-1.21.11-brightgreen)
 ![NeoForge](https://img.shields.io/badge/NeoForge-21.11.45-orange)
-![Version](https://img.shields.io/badge/Latest-v1.2.0--b113-blue)
+![Version](https://img.shields.io/badge/Latest-v1.2.1--b116-blue)
 
 **MilitaryCore**의 공식 빌드 파일 배포 및 패치노트 전용 공개(Public) 저장소입니다.  
 최신 버전의 클라이언트 및 서버 모드 파일은 우측 **[Releases](https://github.com/kim-yoa/militarycore-release/releases)** 탭에서 누구나 자유롭게 다운로드하실 수 있습니다.
@@ -11,12 +11,20 @@
 
 ## 📥 다운로드 안내 (Downloads)
 
-👉 **[최신 버전 (v1.2.0) 릴리즈 다운로드 바로가기](https://github.com/kim-yoa/militarycore-release/releases)**
+👉 **[최신 버전 (v1.2.1) 릴리즈 다운로드 바로가기](https://github.com/kim-yoa/militarycore-release/releases)**
 
 | 구분 | 파일명 | 용량 | 다운로드 대상 |
 | :--- | :--- | :--- | :--- |
-| **클라이언트용 (Client)** | `militarycore-client-1.2.0-b113.jar` | **~104 MB** | **모든 플레이어** (마인크래프트 `mods/` 폴더에 설치) |
-| **서버용 (Server)** | `militarycore-server-1.2.0-b113.jar` | **~173 KB** | **서버 관리자/호스팅** (서버 `mods/` 폴더에 설치) |
+| **클라이언트용 (Client)** | `militarycore-client-1.2.1-b116.jar` | **~104 MB** | **모든 플레이어** (마인크래프트 `mods/` 폴더에 설치) |
+| **서버용 (Server)** | `militarycore-server-1.2.1-b116.jar` | **~193 KB** | **서버 관리자/호스팅** (서버 `mods/` 폴더에 설치) |
+
+---
+
+## 📖 v1.2.1 주요 업데이트 내역
+
+### 1. 커스텀 책 GUI 및 책과 깃펜 텍스처 탑재
+- **커스텀 책 GUI 리소스 오버라이드**: 게임 내 책(Book & Quill / Written Book) 인터페이스에 맞춤형 GUI 텍스처 반영
+- **커스텀 책과 깃펜(Book and Quill) 아이템 텍스처 적용**: 고해상도 32x32 맞춤형 아이템 텍스처 적용
 
 ---
 
